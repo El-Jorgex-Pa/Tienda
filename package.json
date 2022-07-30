@@ -1,0 +1,19 @@
+{
+  "name": "contabilidad",
+  "version": "1.0.0",
+  "description": "Proyecto contabilidad tienda que se suponia era en django xD",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-Jorgex-Pa/Tienda.git"
+  },
+  "author": "Jorge Arango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/El-Jorgex-Pa/Tienda/issues"
+  },
+  "homepage": "https://github.com/El-Jorgex-Pa/Tienda#readme"
+}
